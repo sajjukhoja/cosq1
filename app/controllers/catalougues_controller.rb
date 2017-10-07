@@ -1,0 +1,2 @@
+class CatalouguesController < ApplicationController
+end

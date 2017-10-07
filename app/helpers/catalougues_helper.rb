@@ -1,0 +1,2 @@
+module CatalouguesHelper
+end
